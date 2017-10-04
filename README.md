@@ -3,7 +3,9 @@ Contacts Page for Social Media
 <br>
 A public page for an ongoing application that used to be called "Familiarize", and has been renamed to "Buzz". The project is being worked on in a private repository.
 <br>
+<br>
 This page is a summary of our progress.
+<br>
 <br>
 Look out for updates on our website: 
 <br>
