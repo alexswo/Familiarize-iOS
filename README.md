@@ -1,7 +1,7 @@
 # Buzz-iOS
 Contacts Page for Social Media
 <br>
-A public page for an ongoing application called Familiarize that is being worked on in a private repository.
+A public page for an ongoing application that was used to be called Familiarize, and has been renamed to Buzz. The project is being worked on in a private repository.
 <br>
 This page is a summary of our progress.
 https://buzz-app.github.io/
